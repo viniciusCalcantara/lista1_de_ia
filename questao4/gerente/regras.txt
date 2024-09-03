@@ -1,0 +1,11 @@
+renda=0k-15k, garantia=nenhuma=>risco=alto
+renda=0k-15k, garantia=adequada=>risco=moderado
+renda=15k-35k, divida=alta, historia_de_redito=desconhecida=>risco=alto
+renda=15k-35k, divida=alta, historia__de_credito=ruim=>risco=alto
+renda=15k-35k, divida=alta, historia_de_credito=boa=>risco=moderado
+renda=15k-35k, divida=baixa=>risco=moderado
+renda=acima_de_35k, historia_de_credito=desconhecida, garantia=nenhuma, divida=baixa=>risco=baixo
+renda=acima_de_35k, historia_de_credito=desconhecida, garantia=nenhuma, divida=alta=>risco=moderado
+renda=acima_de_35k, historia_de_credito=desconhecida, garantia=adequada=>risco=baixo
+renda=acima_de_35k, historia_de_credito=ruim=>risco=moderado
+renda=acima_de_35k, historia_de_credito=boa=>risco=baixo

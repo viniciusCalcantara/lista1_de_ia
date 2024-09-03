@@ -1,0 +1,2 @@
+fatos=gerente/fatos.txt
+regras=gerente/regras.txt

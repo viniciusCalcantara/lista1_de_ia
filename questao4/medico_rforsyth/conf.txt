@@ -1,0 +1,2 @@
+fatos=medico_rforsyth/fatos.txt
+regras=medico_rforsyth/regras.txt

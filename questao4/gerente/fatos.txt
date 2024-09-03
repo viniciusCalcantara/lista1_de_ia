@@ -1,0 +1,4 @@
+historia_de_credito=boa
+divida=alta          
+garantia=nenhuma
+renda=0k-15k

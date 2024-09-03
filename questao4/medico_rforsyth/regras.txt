@@ -1,0 +1,3 @@
+risco_de_infarto=sim, teve_infarto_anterior=sim=>prescrever_digitais=sim
+dor_quadrante_esquerdo=sim, pressao_alta=sim=>risco_de_infarto=sim
+pressao_intraocular_elevada=sim=>pressao_alta=sim

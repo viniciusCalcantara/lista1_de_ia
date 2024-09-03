@@ -1,0 +1,2 @@
+fatos=medico_ben_coppin/fatos.txt
+regras=medico_ben_coppin/regras.txt

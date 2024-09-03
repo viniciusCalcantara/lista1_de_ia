@@ -1,0 +1,5 @@
+pressao_intraocular_elevada=sim
+dor_quadrante_esquerdo=sim
+pressao_alta=sim
+fuma=sim
+risco_de_infarto=sim

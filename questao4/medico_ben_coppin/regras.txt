@@ -1,0 +1,5 @@
+dor_de_cabeca=sim, garganta_inflamada=sim, tosse=sim=>diagnostico=gripe
+cansaco=sim, dor_de_cabeca=sim=>diagnostico=mononucleose_infecciosa
+cansaco=sim, garganta_inflamada=sim=>diagnostico=amigdalite
+cansaco=sim=>diagnostico=estresse
+fadiga=sim, dores_de_cabeca=sim, dores_no_corpo=sim, ocasionais_dores_garganta=sim, ocasionais_tosse=sim=>diagnostico=cepa, diagnostico=covid19
