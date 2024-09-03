@@ -68,19 +68,19 @@ regras=gerente/regras.txt
 ```
 
 
-### Uso do engenho de inferência
+## Uso do engenho de inferência
 
 Depois de criado a estrutura de diretório necessária basta rodar: python app.py
 
-## Motor de Inferência
+### Motor de Inferência
 
 O motor de inferência do agente inteligente possui duas funções principais:
 
-### Encadeamento para Frente
+#### Encadeamento para Frente
 
 O encadeamento para frente é uma técnica de inferência usada para deduzir novos fatos a partir dos fatos conhecidos e das regras fornecidas. Este método começa com os fatos iniciais e aplica as regras para gerar novos fatos até que não seja possível derivar mais informações. É útil quando você deseja deduzir todas as consequências possíveis a partir dos fatos conhecidos.
 
-### Encadeamento para Trás
+#### Encadeamento para Trás
 
 O encadeamento para trás, por outro lado, começa com uma hipótese ou conclusão desejada e trabalha retroativamente para verificar se essa conclusão pode ser alcançada a partir dos fatos conhecidos e das regras fornecidas. Esse método é usado para verificar se uma determinada conclusão pode ser provada ou para encontrar os fatos necessários que sustentam uma determinada conclusão.
 
