@@ -57,8 +57,8 @@ def main():
     kb = criar_agente(nome_do_agente)    
     ie = InferenceEngine(kb)
 
-    # print("Fatos: ", kb.facts)
-    print("Regras: ", kb.rules)
+    # # print("Fatos: ", kb.facts)
+    # print("Regras: ", kb.rules)
 
     print("A sua base de conhecimento (Regras) foi carregada com sucesso!!")
     print("Os fatos iniciais também foram carregados com sucesso!!")
