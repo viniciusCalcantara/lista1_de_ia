@@ -12,11 +12,12 @@ Crie um diretório com o nome do seu agente. Dentro deste diretório, você deve
 
 Por exemplo, para um agente chamado `gerente`, a estrutura do diretório deve ser:
 
+```
 gerente/
     ├── regras.txt
     ├── fatos.txt
     └── conf.txt
-
+```
 
 ## Configuração dos Arquivos
 
